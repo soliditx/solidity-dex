@@ -1,6 +1,6 @@
 {
   "name": "@soliditx/solidity-dex",
-  "version": "1.0.108",
+  "version": "1.0.109",
   "description": "Description for solidity-dex",
   "main": "src/index.js",
   "scripts": {
